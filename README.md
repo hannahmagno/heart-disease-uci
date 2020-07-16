@@ -1,0 +1,3 @@
+# heart-disease-uci
+
+This is a machine project for CS 180 (Aritificial Intelligence). We have a dataset which classified if patients have heart disease or not according to features in it. We use this data to create a model which tries predict if a particular patient has this disease or not. We use Naive Bayes algorithm particularly the Gaussian Naive Bayes classifier to make a model for this dataset. We chose to use the Gaussian Naive Bayes Classifier because our dataset deals with continuous data that can be distributed to a normal (or Gaussian) distribution. The SciKit already provided the library for Gaussian Naive Bayes.
